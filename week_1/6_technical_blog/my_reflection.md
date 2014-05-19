@@ -1,5 +1,7 @@
 ## 8. [Comparing Favorite Websites](8_technical_blog/readme.md) Reflection
 
-Blog url: <!-- Blog URL here (remove comment)  -->
+Blog url: http://pmmenzel.github.io/unit1_projects/week1_technical_blog.html
 
 Reflect on the process of researching and writing a blog post. It doesn't have to be long. Did you enjoy this? Did you get comments or views? Did you find the blog helpful to your learning? Did you find it cumbersome? Which parts did you feel best about and which did you feel less certain about?
+
+I really enjoy these types of projects because, ultimately, the best way that I learn is by doing.  Don't get me wrong though, at this point it is very frustrating trying to figure out how to do the smallest thing but there is some serious satisfaction when you do.  I really feel that I'm starting to understand the process of building a website like this blog, from a conceptual point of view.  However, I feel I have a ways to go before I can just bang out a rough website while making everything look and function the way I'd like.  But its still a very exciting and encouraging process.  I was also fortunate enough to meet up for a peer paring during this (in person) and we ended up just working on it together for several hours.  It was invaluable to have someone there to bounce ideas and ask questions.  
