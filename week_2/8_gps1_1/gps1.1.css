@@ -1,1 +1,38 @@
 /* include your css here */
+
+html {
+      background-color: gray;
+    }
+    
+    section {
+      width: 400px;
+      margin: 0 auto;
+    }
+    
+    header {
+      width: 400px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    
+    h1 {
+      color: red;
+      text-shadow: 5px 2px 5px black;
+    }
+    
+    h3 {
+      text-decoration: underline;
+    }
+    
+    img {
+      margin: 0 auto;
+      display: block;
+      max-width: 80%;
+    }
+    
+    li strong {
+      color: red;
+      text-shadow: 3px 2px 2px black;
+      text-decoration: underline;
+    }
+    
