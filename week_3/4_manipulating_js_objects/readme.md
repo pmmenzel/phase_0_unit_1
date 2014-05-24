@@ -24,15 +24,12 @@ var terah = {
 ```
 
 ## Release 0: Run the tests
-You will find driver test code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code either
+You will find test code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code either
 from the command line using Node.js or by pasting the code of this
 entire file into your browser console.  All tests will log `true`
 in the console when they pass--`false`, otherwise.
 
-## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
-After you run the file, write pseudocode for passing the each failing test in the pseudocode section of the `my_solution.js` file. Write pseudocude using the tips on style in calpoly's [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html). Make sure your pseudocode is broken down to easily implementable steps.
-
-## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
+## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 Turn your pseudocode into code by translating each step into code until the test passes.
 
 You'll want to follow the outline below:
@@ -69,8 +66,11 @@ each step, run your code to be certain that the next test has passed.
 
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
-## Release 3: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 2: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
 
-## Release 4: Commit and push your changes!
+## Release 3: Commit and push your changes!
 Make sure to put everything (pseudocode, initial solution, and reflection) in your [my_solution.js](./my_solution.js) file and push your changes with your repo on github!  
+
+## Release 4: [Review other's solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
+Were there differences in the way you implemented the code based on the tests? Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).

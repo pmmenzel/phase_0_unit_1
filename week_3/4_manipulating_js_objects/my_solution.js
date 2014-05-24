@@ -1,4 +1,3 @@
-// This is a Solo Challenge. 
 
 // There is a section below where you will write your code.
 // Do not alter this object here.
@@ -12,36 +11,8 @@ var terah = {
   hairColor: "brown",
   eyeColor: "brown"
 }
-/* Pseudocode Section - write pseudocode for each challenge below.
-1. Define a variable adam and use object literal notation to assign this variable 
-   the value of a JavaScript Object object with no properties.
-
-2. Give adam a name property with the value "Adam".
-
-3. Add a spouse property to terah and assign it the value of adam.
-
-4. Change the value of the terah weight property to 125.
-
-5. Remove the eyeColor property from terah.
-
-6. Add a spouse property to adam and assign it the value of terah.
-
-7. Add a children property to terah and and use object literal notation to assign 
-   this variable the value of a JavaScript Object object with no properties
-
-8. Add a carson property to the value of the terah children property and assign it 
-  the value of an object with the property name with a value of "Carson".
-
-9. Add a carter property to the value of the terah children property and assign it 
-   the value of an object with the property name with a value of "Carter".
-
-10. Add a colton property to the value of the terah children property and assign it 
-    the value of an object with the property name with a value of "Colton".
-
-11. Add a children property to adam and assign it the value of terah children.
 
 
-*/
 
 // __________________________________________
 // Write your code below.

@@ -1,6 +1,8 @@
 [Week 3 Home](../)
 
-# U1.W3: Design Your Own Code Combat Mission!
+# U1.W3: Design Your Own Code Combat Mission SOLO CHALLENGE
+
+**This is a solo challenge. Refer to the [solo challenge](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo_challenges.md) guidelines.**
 
 ## Learning Competencies
 - Define local variables in JavaScript
@@ -11,7 +13,7 @@
 ## Summary
 You now have some practice with JavaScript so let's get creative with it. In this challenge, **you are not expected to create a real, working mission on codecombat.com**, rather, we want you to have fun designing a simple mission and creating some basic objects and functions to manipulate those objects. You don't need to visit Code Combat to do this, just write out your solution in the `my_solution.js` file. The end is up to you. 
 
-This is an open-ended challenge so there are a lot of things you can do with it (and ways to make it really hard or farily simple). It's up to you  to decide how much you want to do. If you are having fun, keep working and solidifying your understanding. If you're bored and feel like you've gotten enough out of it, consider yourself done. 
+This is an open-ended challenge so there are a lot of things you can do with it (and ways to make it really hard or farily simple). It's up to you to decide how much detail you want to go in to. If you are having fun, keep working and solidifying your understanding of JavaScript concepts. If you're bored and feel like you've gotten enough out of it after writing a few objects and functions that work together, consider yourself done. That said, make sure you go through the workflow and complete each release. 
 
 
 ## Release 0: Design your Mission
@@ -30,21 +32,11 @@ Turn your objectives and objects into pseudocode. Write these in plain english a
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
 ## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
-Turn your pseudocode into code by translating each step into code. If your pseudocode is not easy to implement, modify it, and re-attempt to code it. Your functions don't have to work perfectly, but think about how to display something like movement using data structures. Again, your code doesn't have to be perfectly functional. Try writing your functions to the best of your ability. 
+Your functions don't have to replicate movement on the screen (unless you want them to), but think about how to display something like movement using data structures.
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
-When you get to the point that your objects and functions are working as well as you want, ask yourself:
-- Are the variable names you've chosen clear?
-- Is the code concise (but readable)?
-- Is the code [D.R.Y](http://programmer.97things.oreilly.com/wiki/index.php/Don't_Repeat_Yourself)? 
-
-If you think of a way to improve your code through refactoring, write why you think it's great instead. Do not simply copy the initial solution or leave this section blank, you need to justify the omission of refactoring.
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). ***NOTE: Reflections are mandatory!***
-
-## Release 5: [Review other's solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
-Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
 
 ## Optimize your Learning (Optional)
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...

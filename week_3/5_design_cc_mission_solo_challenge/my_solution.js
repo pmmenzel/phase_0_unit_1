@@ -1,4 +1,4 @@
-// I worked [by myself, with:] on this challenge
+// This is a solo challenge
 
 // Your mission description:
 // 
