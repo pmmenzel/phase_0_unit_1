@@ -17,19 +17,28 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
-
-
-
-
-
+var adam = {};
+adam.name = "Adam";
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {};
+terah.children.carson = {};
+terah.children.carter = {};
+terah.children.colton = {};
+terah.children.carson.name = "Carson";
+terah.children.carter.name = "Carter";
+terah.children.colton.name = "Colton";
+adam.children = terah.children;
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
+// I generally had a good grasp on the concepts related to this challenge but ran into a few snags.  The first being, I wasn't sure how to delete a property within a property.  I first thought that you can just reassign the value with empty quotes but that seemed wrong so I looked it up on stackflow.com.  I also was having some difficulty figuring out how to add in the children as their own objects with a name property.  Again, I had to look up some context and I was apple to figure it out.  In both instances, I had one of those "oh duh" moments but I'm ok with that.   This ultimately reaffirms concepts, sytnax and commands in my mind. In conclusion, I liked this lesson and I solidfied some concepts.  
 // 
 // 
-// 
-// 
+// Wasn't sure how to add the children property at first
 // 
 // 
 

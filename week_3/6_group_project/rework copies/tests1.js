@@ -1,30 +1,3 @@
-function sum(array) {
-  var sum = 0;
-  for( i = 0; i < array.length; i++) {
-    sum += array[i];
-  }
-  return sum;
-}
-
-function mean(array) {
-  var sum = 0;
-  for ( i = 0; i < array.length; i++) {
-    sum += array[i]; 
-  }
-  var mean = sum / array.length;
-  return mean;
-}
-
-function median(array) {
-  var sorted = array.sort();
-  var midIndex = Math.floor(sorted.length/2); //returns the middle number regardless sorted.length is even or odd
-  if (sorted.length % 2 == 0) {  // if sorted.length is an even number
-     return ((sorted[midIndex-1] + sorted[midIndex]) / 2);
-  } else if (sorted.length % 2 != 0) { // if sorted.length is an odd number
-    return sorted[midIndex];
-  }
-}
-
 // __________________________________________
 // Tests:  Do not alter code below this line.
 
